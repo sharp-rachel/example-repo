@@ -38,3 +38,6 @@ This is the template Brian showed me
   - `git commit -m "Hi future me, this is what I changed"`
 - Commits are pushed to branches
   - For the main branch, use `git push origin main`
+
+## Helpful links:
+[HappyGitWithR] (https://github.com/jennybc/happy-git-with-r)
